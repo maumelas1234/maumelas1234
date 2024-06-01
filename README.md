@@ -4,9 +4,9 @@
 
     🌱 I recently completed a degree in computer sciences, enhancing my understanding of various facets within the field.
 
-    💞️ I'm actively seeking collaboration opportunities that align with my passion and expertise.
+    💞️ I'm actively seeking internship opportunities that align with my passion and expertise.
 
-    📫 You can reach me at [provide your preferred contact information or platform].
+    📫 You can reach me via whatsapp on +27 64 6277 365 or @maumelatshifhiwa on facebook.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
