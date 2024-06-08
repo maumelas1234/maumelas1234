@@ -1,14 +1,11 @@
-👋 Hello, I'm @maumelas1234!
+👋 Hi there! I'm Tshifhiwa Maumela
 
-    👀 I have a keen interest in computers and the transformative technological advancements they bring .
-
+    👀 👩‍💻 🔭 Passionate about sofware engineering/development🌱 I’m currently mastering Python ,C++, C#, Ruby, Flutter, HTML,CSS and JS.
     🌱 I recently completed a degree in computer sciences, enhancing my understanding of various facets within the field.
+    💞️ I'm open to collaborations and actively seeking internship opportunities.
 
-    💞️ I'm actively seeking internship opportunities that align with my passion and expertise (Software Development and Software Engineering).
+    📫 You can reach me via whatsapp on +27 64 6277 365 or email me on maumelatshifhiwa36912@gmail.com
 
-    📫 You can reach me via whatsapp on +27 64 6277 365 or @maumelatshifhiwa on facebook.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 maumelas1234/maumelas1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
