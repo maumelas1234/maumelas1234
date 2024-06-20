@@ -1,6 +1,6 @@
 👋 Hi there! I'm Tshifhiwa Maumela
 
-    👀 👩‍💻 🔭 Passionate about sofware engineering and development🌱 I’m currently mastering Python ,C++, C#, Ruby, Flutter, HTML,CSS and JS.
+    👀 👩‍💻 🔭 Passionate about software engineering and development🌱 I’m currently mastering Python ,C++, C#, Ruby, Flutter, HTML,CSS and JS.
     🌱 I recently completed a degree in computer sciences, enhancing my understanding of various facets within the field.
     💞️ I'm open for collaborations and actively seeking internship opportunities.
 
